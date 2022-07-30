@@ -1,0 +1,15 @@
+### BIM312 - Database Management Systems / Dentist Management System Project
+
+![Proje Görseli](/sshots/phase1-01.jpg)
+![Proje Görseli](/sshots/phase1-02.jpg)
+![Proje Görseli](/sshots/phase2-01.jpg)
+![Proje Görseli](/sshots/phase2-02.jpg)
+![Proje Görseli](/sshots/phase2-03.jpg)
+![Proje Görseli](/sshots/phase2-04.jpg)
+![Proje Görseli](/sshots/phase2-05.jpg)
+![Proje Görseli](/sshots/phase2-06.jpg)
+![Proje Görseli](/sshots/phase3-01.jpg)
+![Proje Görseli](/sshots/phase3-02.jpg)
+![Proje Görseli](/sshots/phase3-03.jpg)
+![Proje Görseli](/sshots/phase3-04.jpg)
+![Proje Görseli](/sshots/phase3-05.jpg)
